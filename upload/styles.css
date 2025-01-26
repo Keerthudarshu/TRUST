@@ -1,0 +1,22 @@
+
+.upload-form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+.upload-form h3 {
+    margin-bottom: 10px;
+}
+
+.upload-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.upload-form input, .upload-form select, .upload-form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
